@@ -15,7 +15,6 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
 
  As a movie selling company I want to get more subscriptions so that I can expand my companies reach and increase revenue 
@@ -27,10 +26,13 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 
 Example: 
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+
+Dataset: https://www.kaggle.com/datasets/octopusteam/imdb-top-1000-movies/data
+- **Title** (String) - name of the movie
+- **Genres** (String) - the genre of the movie 
+- **averageRating** (double) - The total average rating of the movie 
+- **numVotes** (int) - The accumiliation of votes for a movie
+- **releaseYear** (int) - The year the movie was released
 
 ## UML Diagram 
 
