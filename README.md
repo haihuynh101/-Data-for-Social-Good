@@ -33,8 +33,11 @@ Dataset: https://www.kaggle.com/datasets/octopusteam/imdb-top-1000-movies/data
 ## UML Diagram 
 
 
-![UML Diagram for my project](![alt text](image.png)) 
+![UML Diagram for my project]![alt text](image-1.png)
+
 
 ## Description 
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project
+
+In this projcet we took a top 1000 movies list and organized it in our code by making every column a 1D array. Our project answers the user's goal of finding out the most popular genre in the top 1000 by using a method to analyze which genre has the most popular movies. To do this, we used the file reader to get every index from each array and printed it out with our toString method in order from title to release year. 
